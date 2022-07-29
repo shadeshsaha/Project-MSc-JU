@@ -68,7 +68,7 @@ const ProfileSection = ({ account }) => {
                             </div>
                             <div>
                                 <p className="mt-3 flex items-center mb-1">
-                                    <FaClock className="mr-2" />Joined: Feb 01, 2022
+                                    <FaClock className="mr-2" />Joined: June 01, 2022
                                 </p>
                                 <p className="flex items-center mb-1">
                                     <FaPenNib className="mr-2" />Topics: 13</p>

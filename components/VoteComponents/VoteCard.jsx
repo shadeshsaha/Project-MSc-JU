@@ -79,6 +79,7 @@ const VoteCard = ({ votes }) => {
                     <div className="flex justify-center">
                         <Image
                             src={image}
+                            // src="/img/shadesh.jpg"
                             alt="Course Cover"
                             width="300px"
                             height="165px"
@@ -86,7 +87,7 @@ const VoteCard = ({ votes }) => {
                         />
                     </div>
                     <h2 className="text-xl py-2 font-semibold"> {title} </h2>
-                    <h2> <span>$</span> {price} </h2>
+                    <h2> <span>BDT </span> {price} </h2>
                     <p className="text-slate-400 text-[0.9em]">#javascript #intermidiate</p>
                     <p className="text-sm mt-2 px-2 text-stone-600 dark:text-slate-400">● 10 Quizzes ● 10 Articles <br /> ● 10 Problem Solving</p>
                     <h2 className="text-xl font-bold pt-5">Votes: {votesCount} </h2>

@@ -1,0 +1,36 @@
+[
+    {
+        "success":true,
+        "data":[
+            {
+                "_id":"62286699e8e79f3871eec447",
+                "title":"Angular JS Course",
+                "image":"https://i.ibb.co/TcZ91g0/Angular.jpg",
+                "price":15,
+                "votesTotal":23,
+                "createdAt":"2022-03-09T08:34:33.453Z",
+                "updatedAt":"2022-06-12T12:07:30.734Z",
+                "__v":0
+            },
+            {
+                "_id":"62286699e8e79f3871eec448",
+                "title":"React JS Course",
+                "image":"https://i.ibb.co/T4X3jz7/react.jpg",
+                "price":15,
+                "votesTotal":20,
+                "createdAt":"2022-03-09T08:34:33.453Z",
+                "updatedAt":"2022-06-27T16:33:00.395Z",
+                "__v":0},
+            {
+                "_id":"62286699e8e79f3871eec449",
+                "title":"Vue JS Course",
+                "image":"https://i.ibb.co/KjfBz7b/vue.png",
+                "price":15,
+                "votesTotal":22,
+                "createdAt":"2022-03-09T08:34:33.453Z",
+                "updatedAt":"2022-06-27T16:33:01.814Z",
+                "__v":0
+            }
+        ]
+    }
+]

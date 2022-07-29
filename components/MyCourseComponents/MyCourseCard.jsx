@@ -24,7 +24,7 @@ const MyCourseCard = ({ course, account }) => {
                         </div>
                         <div>
                             <h4 className="font-semibold text-lg text-slate-700 dark:text-slate-200">{course?.title}</h4>
-                            <h4 className="font-semibold text-lg text-slate-700 dark:text-slate-200"> <span>$</span> {course?.price}</h4>
+                            <h4 className="font-semibold text-lg text-slate-700 dark:text-slate-200"> <span>BDT </span> {course?.price}</h4>
                         </div>
                     </div>
                 </div>
